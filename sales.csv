@@ -1,0 +1,21 @@
+Order_ID,Customer,City,Product,Quantity,Unit_Price,Payment_Mode,Total_Amount
+1001,Aarav,Delhi,Laptop,1,55000,UPI,55000
+1002,Diya,Mumbai,Headphones,2,1800,Card,3600
+1003,Kabir,Pune,Keyboard,3,1200,Cash,3600
+1004,Ananya,Jaipur,Mouse,2,600,UPI,1200
+1005,Rohan,Delhi,Monitor,1,15000,Card,15000
+1006,Meera,Chennai,Laptop,1,52000,Net Banking,52000
+1007,Ishaan,Mumbai,Mouse,4,650,UPI,2600
+1008,Sara,Pune,Headphones,1,2000,Card,2000
+1009,Arjun,Lucknow,Monitor,2,14500,Cash,29000
+1010,Priya,Delhi,Keyboard,3,1100,UPI,3300
+1011,Vivaan,Jaipur,Laptop,1,58000,Card,58000
+1012,Aditi,Chennai,Keyboard,2,1250,Cash,2500
+1013,Reyansh,Lucknow,Mouse,5,700,UPI,3500
+1014,Ira,Mumbai,Monitor,1,15200,Net Banking,15200
+1015,Advait,Delhi,Headphones,2,1900,Card,3800
+1016,Kiara,Pune,Laptop,1,56000,UPI,56000
+1017,Dev,Jaipur,Mouse,3,620,Cash,1860
+1018,Myra,Lucknow,Keyboard,2,1150,Card,2300
+1019,Krish,Chennai,Headphones,1,2100,UPI,2100
+1020,Tara,Mumbai,Monitor,2,14800,Net Banking,29600
